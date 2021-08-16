@@ -12,7 +12,7 @@ func main() {
 	// fruitArr[0] = "Apple"
 	// fruitArr[1] = "Orange"
 
-	// Decalre and assign
+	// Declare and assign
 	// fruitArr := [2]string{"Apple", "Orange"}
 
 	// fmt.Println(fruitArr)
