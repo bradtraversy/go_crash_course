@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"strutil"
+	"./strutil"
 )
 
 func main() {
